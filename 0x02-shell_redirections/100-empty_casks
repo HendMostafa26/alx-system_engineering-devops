@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty | ls -1aR | sort
+find . -empty | ls -laR | sort
